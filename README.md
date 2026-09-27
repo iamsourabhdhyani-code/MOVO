@@ -66,10 +66,15 @@ and want a simple, smooth way to watch them.
 
 ## Download
 
-Download the latest version of MOVO from the **Releases** section.
+<div align="center">
 
-**Latest Release:**  
-[Download MOVO](../../releases)
+<a href="https://github.com/iamsourabhdhyani-code/MOVO/releases/tag/v2.4.0">
+
+<img width="250" alt="Download from GitHub" src="https://github.com/user-attachments/assets/eabe9443-da81-4d60-9b49-38726704cefa" />
+
+</a>
+
+</div>
 
 ---
 
